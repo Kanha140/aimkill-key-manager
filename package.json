@@ -1,0 +1,23 @@
+{
+  "name": "aimkill-key-manager",
+  "version": "1.0.0",
+  "description": "AIMKILL KEY MANAGER - Discord Slash Commands Licensing Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "licensing",
+    "aimkill",
+    "aimkill-key-manager"
+  ],
+  "author": "AIMKILL",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.3.1"
+  }
+}
